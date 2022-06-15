@@ -1,2 +1,0 @@
-# ArchivosBasico
-conseptos Archivos Basico
