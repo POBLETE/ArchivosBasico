@@ -8,3 +8,11 @@ C:\Users\cpoblete\Downloads\ComprimierArchivos\obj\Debug\ComprimierArchivos.pdb
 C:\Users\cpoblete\Downloads\ComprimierArchivos\bin\Debug\System.IO.Compression.dll
 C:\Users\cpoblete\Downloads\ComprimierArchivos\bin\Debug\System.IO.Compression.ZipFile.dll
 C:\Users\cpoblete\Downloads\ComprimierArchivos\obj\Debug\ComprimierArchivos.csproj.CopyComplete
+D:\myProject\ComprimierArchivos\bin\Debug\ComprimierArchivos.exe.config
+D:\myProject\ComprimierArchivos\bin\Debug\ComprimierArchivos.exe
+D:\myProject\ComprimierArchivos\bin\Debug\ComprimierArchivos.pdb
+D:\myProject\ComprimierArchivos\obj\Debug\ComprimierArchivos.csproj.AssemblyReference.cache
+D:\myProject\ComprimierArchivos\obj\Debug\ComprimierArchivos.csproj.CoreCompileInputs.cache
+D:\myProject\ComprimierArchivos\obj\Debug\ComprimierArchivos.csproj.CopyComplete
+D:\myProject\ComprimierArchivos\obj\Debug\ComprimierArchivos.exe
+D:\myProject\ComprimierArchivos\obj\Debug\ComprimierArchivos.pdb
